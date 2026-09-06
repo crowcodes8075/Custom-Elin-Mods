@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Meta>
+  <title>C Chest Tweaks</title>
+  <id>C_ChestTweaks</id>
+  <author>you</author>
+  <version>1.0.0</version>
+  <description>Adds a "Drop All Items" button left of Take All on container screens. Drops every item in the chest onto the ground at your feet.</description>
+</Meta>

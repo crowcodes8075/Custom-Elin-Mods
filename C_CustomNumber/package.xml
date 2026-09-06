@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Meta>
+  <title>C Custom Number</title>
+  <id>C_CustomNumber</id>
+  <author>you</author>
+  <version>1.0.0</version>
+  <description>Adds a Custom Number button to facility craft windows. Set a custom step (e.g. 100) that replaces the +10 button, so the row reads Min -10 -1 1/2 +1 +100 Max.</description>
+</Meta>
